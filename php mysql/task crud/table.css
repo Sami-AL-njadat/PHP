@@ -1,0 +1,30 @@
+#Table123{
+
+    border: 2px solid skyblue;
+    margin: auto;
+    width: 75%;
+    text-align: center;
+}
+
+thead{
+
+    color: blueviolet;
+    background-color: blanchedalmond;
+    font-size:  large;
+}
+
+
+
+td{
+
+    color: blanchedalmond;
+    background-color: blueviolet;
+
+}
+
+
+.buat{
+
+     background-color: aliceblue;
+
+}
